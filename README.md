@@ -37,7 +37,7 @@ The Meal Management System is a desktop application created to solve common prob
 
 1. **Clone the Repository**:
    ```bash
-   git clone github.com/Rayhan-002/Meal-Management
+   git clone github.com/fakaframe/Meal_Management
 ## Database Configuration
 
 1. Import `users_db.sql` to set up the database in MySQL.
